@@ -1,2 +1,4 @@
+# Local runner output and common platform metadata.
 out/
+.DS_Store
 
